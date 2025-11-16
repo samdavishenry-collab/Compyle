@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">AI Soil Tester</string>
+
+    <!-- Home Screen -->
+    <string name="app_title">AI Soil Tester</string>
+    <string name="app_subtitle">V12 Engine</string>
+    <string name="connect_bluetooth">Connect Bluetooth</string>
+    <string name="start_test">Start Test</string>
+    <string name="view_results">View Results</string>
+    <string name="support_share">Support &amp; Share</string>
+    <string name="version_info">Version 1.0 • Offline Mode 📱</string>
+
+    <!-- Bluetooth Connection -->
+    <string name="bluetooth_connection">Bluetooth Connection</string>
+    <string name="scanning_devices">Scanning for HC-05 devices...</string>
+    <string name="device_connected">Device Connected</string>
+    <string name="device_disconnected">Device Disconnected</string>
+    <string name="connection_failed">Connection Failed</string>
+    <string name="enable_bluetooth">Please enable Bluetooth</string>
+    <string name="hc05_not_found">HC-05 device not found</string>
+    <string name="retry_scan">Retry Scan</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+
+    <!-- Live Test -->
+    <string name="live_test_running">Live Test Running</string>
+    <string name="test_running_connected">Test Running... Connected to HC-05</string>
+    <string name="soil_moisture">Soil Moisture</string>
+    <string name="temperature">Temperature</string>
+    <string name="humidity">Humidity</string>
+    <string name="percent_symbol">%</string>
+    <string name="celsius_symbol">°C</string>
+    <string name="stop_test">Stop Test</string>
+    <string name="no_data_received">No data received yet</string>
+
+    <!-- Results -->
+    <string name="test_results">Test Results</string>
+    <string name="sensor_readings">Sensor Readings</string>
+    <string name="ai_recommendations">AI Recommendations</string>
+    <string name="suitable_crops">Suitable Crops</string>
+    <string name="share_results">Share Results</string>
+    <string name="back_to_home">Back to Home</string>
+    <string name="test_completed">Test Completed</string>
+
+    <!-- Support -->
+    <string name="support">Support</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="phone_number">+91 8939290969</string>
+    <string name="email_address">samdavishenry@gmail.com</string>
+    <string name="share_app">Share App</string>
+    <string name="rate_app">Rate App</string>
+    <string name="about">About</string>
+    <string name="app_description">AI Soil Tester helps farmers and gardeners make informed decisions about crop selection based on real-time soil sensor data.</string>
+
+    <!-- Crop Information -->
+    <string name="growing_period">Growing Period: %d days</string>
+    <string name="water_needs">Water Needs: %s</string>
+    <string name="low">Low</string>
+    <string name="medium">Medium</string>
+    <string name="high">High</string>
+
+    <!-- Permissions -->
+    <string name="permission_required">Permission Required</string>
+    <string name="bluetooth_permission_denied">Bluetooth permission is required to connect to HC-05 device</string>
+    <string name="location_permission_denied">Location permission is required for Bluetooth scanning</string>
+    <string name="grant_permission">Grant Permission</string>
+
+    <!-- Error Messages -->
+    <string name="error_occurred">Error occurred</string>
+    <string name="try_again">Try Again</string>
+    <string name="no_internet_required">No Internet Required</string>
+    <string name="offline_mode">Working Offline</string>
+
+    <!-- Crop Names -->
+    <string name="rice">Rice</string>
+    <string name="sugarcane">Sugarcane</string>
+    <string name="jute">Jute</string>
+    <string name="wheat">Wheat</string>
+    <string name="maize">Maize</string>
+    <string name="tomato">Tomato</string>
+    <string name="groundnut">Groundnut</string>
+    <string name="cotton">Cotton</string>
+    <string name="millet">Millet</string>
+
+    <!-- Crop Descriptions -->
+    <string name="rice_desc">Thrives in flooded conditions</string>
+    <string name="sugarcane_desc">Requires abundant water</string>
+    <string name="jute_desc">Best in high moisture soil</string>
+    <string name="wheat_desc">Ideal moisture range</string>
+    <string name="maize_desc">Versatile moisture needs</string>
+    <string name="tomato_desc">Balanced watering required</string>
+    <string name="groundnut_desc">Low water requirement</string>
+    <string name="cotton_desc">Drought resistant</string>
+    <string name="millet_desc">Excellent drought tolerance</string>
+
+</resources>
